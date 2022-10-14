@@ -1,1 +1,22 @@
-# kedvenc-tant-rgy-2.0
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;"></body>
+
+<h1 style="color:white;">Steffel Alexander</h1>
+<h3 style="color:purple;"> Listák </h3>
+<p style="background-color:violet; width: 300px;"> Kedvenc tantárgyaim :</p>
+<ol>
+  <li style="color:blue;;">IKT PROJEKTMUNKA</li>
+  <li style="color:blue;">PROGAMOZÁS</li>
+  <li style="color:blue;">Angol</li>
+</ol>
+
+<p style="background-color:lightgreen;width: 300px;"> A kedvenc szabadidős tevénykedségeim:</p>
+<ul>
+  <li style=" color:skyblue;">Számítógépezés</li>
+  <li style=" color:skyblue;">HTML kód gyakórlása</li>
+  <li style=" color:skyblue;">Drónokat reptettni</li>
+</ul>
+
+</body>
+</html>
